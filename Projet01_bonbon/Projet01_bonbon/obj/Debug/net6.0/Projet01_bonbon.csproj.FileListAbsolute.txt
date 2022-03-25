@@ -1,0 +1,45 @@
+C:/Users/alexa/Desktop/Prog Base Project/Projet01_bonbon/Projet01_bonbon/obj/Debug/net6.0/Projet01_bonbon.csproj.AssemblyReference.cache
+C:/Users/alexa/Desktop/Prog Base Project/Projet01_bonbon/Projet01_bonbon/obj/Debug/net6.0/Projet01_bonbon.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/alexa/Desktop/Prog Base Project/Projet01_bonbon/Projet01_bonbon/obj/Debug/net6.0/Projet01_bonbon.AssemblyInfoInputs.cache
+C:/Users/alexa/Desktop/Prog Base Project/Projet01_bonbon/Projet01_bonbon/obj/Debug/net6.0/Projet01_bonbon.AssemblyInfo.cs
+C:/Users/alexa/Desktop/Prog Base Project/Projet01_bonbon/Projet01_bonbon/obj/Debug/net6.0/Projet01_bonbon.csproj.CoreCompileInputs.cache
+C:/Users/alexa/Desktop/Prog Base Project/Projet01_bonbon/Projet01_bonbon/bin/Debug/net6.0/Projet01_bonbon.exe
+C:/Users/alexa/Desktop/Prog Base Project/Projet01_bonbon/Projet01_bonbon/bin/Debug/net6.0/Projet01_bonbon.deps.json
+C:/Users/alexa/Desktop/Prog Base Project/Projet01_bonbon/Projet01_bonbon/bin/Debug/net6.0/Projet01_bonbon.runtimeconfig.json
+C:/Users/alexa/Desktop/Prog Base Project/Projet01_bonbon/Projet01_bonbon/bin/Debug/net6.0/Projet01_bonbon.dll
+C:/Users/alexa/Desktop/Prog Base Project/Projet01_bonbon/Projet01_bonbon/bin/Debug/net6.0/ref/Projet01_bonbon.dll
+C:/Users/alexa/Desktop/Prog Base Project/Projet01_bonbon/Projet01_bonbon/bin/Debug/net6.0/Projet01_bonbon.pdb
+C:/Users/alexa/Desktop/Prog Base Project/Projet01_bonbon/Projet01_bonbon/obj/Debug/net6.0/Projet01_bonbon.dll
+C:/Users/alexa/Desktop/Prog Base Project/Projet01_bonbon/Projet01_bonbon/obj/Debug/net6.0/ref/Projet01_bonbon.dll
+C:/Users/alexa/Desktop/Prog Base Project/Projet01_bonbon/Projet01_bonbon/obj/Debug/net6.0/Projet01_bonbon.pdb
+C:/Users/alexa/Desktop/Prog Base Project/Projet01_bonbon/Projet01_bonbon/obj/Debug/net6.0/Projet01_bonbon.genruntimeconfig.cache
+/home/hobo/School/Prog Base/Machine Bonbon/Program/Projet01_bonbon/Projet01_bonbon/bin/Debug/net6.0/Projet01_bonbon
+/home/hobo/School/Prog Base/Machine Bonbon/Program/Projet01_bonbon/Projet01_bonbon/bin/Debug/net6.0/Projet01_bonbon.deps.json
+/home/hobo/School/Prog Base/Machine Bonbon/Program/Projet01_bonbon/Projet01_bonbon/bin/Debug/net6.0/Projet01_bonbon.runtimeconfig.json
+/home/hobo/School/Prog Base/Machine Bonbon/Program/Projet01_bonbon/Projet01_bonbon/bin/Debug/net6.0/Projet01_bonbon.dll
+/home/hobo/School/Prog Base/Machine Bonbon/Program/Projet01_bonbon/Projet01_bonbon/bin/Debug/net6.0/Projet01_bonbon.pdb
+/home/hobo/School/Prog Base/Machine Bonbon/Program/Projet01_bonbon/Projet01_bonbon/obj/Debug/net6.0/Projet01_bonbon.csproj.AssemblyReference.cache
+/home/hobo/School/Prog Base/Machine Bonbon/Program/Projet01_bonbon/Projet01_bonbon/obj/Debug/net6.0/Projet01_bonbon.GeneratedMSBuildEditorConfig.editorconfig
+/home/hobo/School/Prog Base/Machine Bonbon/Program/Projet01_bonbon/Projet01_bonbon/obj/Debug/net6.0/Projet01_bonbon.AssemblyInfoInputs.cache
+/home/hobo/School/Prog Base/Machine Bonbon/Program/Projet01_bonbon/Projet01_bonbon/obj/Debug/net6.0/Projet01_bonbon.AssemblyInfo.cs
+/home/hobo/School/Prog Base/Machine Bonbon/Program/Projet01_bonbon/Projet01_bonbon/obj/Debug/net6.0/Projet01_bonbon.csproj.CoreCompileInputs.cache
+/home/hobo/School/Prog Base/Machine Bonbon/Program/Projet01_bonbon/Projet01_bonbon/obj/Debug/net6.0/Projet01_bonbon.dll
+/home/hobo/School/Prog Base/Machine Bonbon/Program/Projet01_bonbon/Projet01_bonbon/obj/Debug/net6.0/refint/Projet01_bonbon.dll
+/home/hobo/School/Prog Base/Machine Bonbon/Program/Projet01_bonbon/Projet01_bonbon/obj/Debug/net6.0/Projet01_bonbon.pdb
+/home/hobo/School/Prog Base/Machine Bonbon/Program/Projet01_bonbon/Projet01_bonbon/obj/Debug/net6.0/Projet01_bonbon.genruntimeconfig.cache
+/home/hobo/School/Prog Base/Machine Bonbon/Program/Projet01_bonbon/Projet01_bonbon/obj/Debug/net6.0/ref/Projet01_bonbon.dll
+/home/hobo/GitKraken/machine_bonbon_alexandre/Projet01_bonbon/Projet01_bonbon/bin/Debug/net6.0/Projet01_bonbon
+/home/hobo/GitKraken/machine_bonbon_alexandre/Projet01_bonbon/Projet01_bonbon/bin/Debug/net6.0/Projet01_bonbon.deps.json
+/home/hobo/GitKraken/machine_bonbon_alexandre/Projet01_bonbon/Projet01_bonbon/bin/Debug/net6.0/Projet01_bonbon.runtimeconfig.json
+/home/hobo/GitKraken/machine_bonbon_alexandre/Projet01_bonbon/Projet01_bonbon/bin/Debug/net6.0/Projet01_bonbon.dll
+/home/hobo/GitKraken/machine_bonbon_alexandre/Projet01_bonbon/Projet01_bonbon/bin/Debug/net6.0/Projet01_bonbon.pdb
+/home/hobo/GitKraken/machine_bonbon_alexandre/Projet01_bonbon/Projet01_bonbon/obj/Debug/net6.0/Projet01_bonbon.csproj.AssemblyReference.cache
+/home/hobo/GitKraken/machine_bonbon_alexandre/Projet01_bonbon/Projet01_bonbon/obj/Debug/net6.0/Projet01_bonbon.GeneratedMSBuildEditorConfig.editorconfig
+/home/hobo/GitKraken/machine_bonbon_alexandre/Projet01_bonbon/Projet01_bonbon/obj/Debug/net6.0/Projet01_bonbon.AssemblyInfoInputs.cache
+/home/hobo/GitKraken/machine_bonbon_alexandre/Projet01_bonbon/Projet01_bonbon/obj/Debug/net6.0/Projet01_bonbon.AssemblyInfo.cs
+/home/hobo/GitKraken/machine_bonbon_alexandre/Projet01_bonbon/Projet01_bonbon/obj/Debug/net6.0/Projet01_bonbon.csproj.CoreCompileInputs.cache
+/home/hobo/GitKraken/machine_bonbon_alexandre/Projet01_bonbon/Projet01_bonbon/obj/Debug/net6.0/Projet01_bonbon.dll
+/home/hobo/GitKraken/machine_bonbon_alexandre/Projet01_bonbon/Projet01_bonbon/obj/Debug/net6.0/refint/Projet01_bonbon.dll
+/home/hobo/GitKraken/machine_bonbon_alexandre/Projet01_bonbon/Projet01_bonbon/obj/Debug/net6.0/Projet01_bonbon.pdb
+/home/hobo/GitKraken/machine_bonbon_alexandre/Projet01_bonbon/Projet01_bonbon/obj/Debug/net6.0/Projet01_bonbon.genruntimeconfig.cache
+/home/hobo/GitKraken/machine_bonbon_alexandre/Projet01_bonbon/Projet01_bonbon/obj/Debug/net6.0/ref/Projet01_bonbon.dll

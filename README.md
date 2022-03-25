@@ -1,2 +1,2 @@
-# candy_machine
-projet01_prog
+# projet01
+machine a bonbon

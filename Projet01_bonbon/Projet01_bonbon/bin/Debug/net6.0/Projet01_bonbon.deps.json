@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Projet01_bonbon/1.0.0": {
+        "runtime": {
+          "Projet01_bonbon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projet01_bonbon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
